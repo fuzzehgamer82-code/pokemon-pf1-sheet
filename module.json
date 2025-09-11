@@ -1,0 +1,25 @@
+{
+  "id": "pokemon-pf1-sheet",
+  "name": "pokemon-pf1-sheet",
+  "title": "Pokémon Actor Sheet (PF1)",
+  "description": "A Pokémon-flavored actor sheet for Foundry VTT (PF1) with type effectiveness, natures, moves (PP), and compendium examples.",
+  "version": "0.1.0",
+  "author": "John Alvie Dotson",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "13",
+  "scripts": ["scripts/pokemon-sheet.js"],
+  "styles": ["styles/pokemon-sheet.css"],
+  "packs": [
+    {
+      "name": "pokedex",
+      "label": "Pokédex (examples)",
+      "path": "packs/pokedex.db",
+      "type": "Actor"
+    }
+  ],
+  "url": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet",
+  "manifest": "https://raw.githubusercontent.com/YOURUSERNAME/pokemon-pf1-sheet/main/module.json",
+  "download": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet/archive/refs/heads/main.zip",
+  "license": "MIT",
+  "readme": "README.md"
+}
