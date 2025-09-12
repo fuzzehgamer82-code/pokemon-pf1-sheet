@@ -18,8 +18,8 @@
     }
   ],
   "url": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet",
-  "manifest": "https://raw.githubusercontent.com/YOURUSERNAME/pokemon-pf1-sheet/main/module.json",
-  "download": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet/archive/refs/heads/main.zip",
+  "manifest": "https://raw.githubusercontent.com/fuzzehgamer82-code/pokemon-pf1-sheet/main/module.json",
+  "download": "https://github.com/fuzzehgamer82-code/pokemon-pf1-sheet/archive/refs/heads/main.zip",
   "license": "MIT",
   "readme": "README.md"
 }
