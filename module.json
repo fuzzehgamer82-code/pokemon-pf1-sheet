@@ -15,7 +15,7 @@
       "label": "Pokédex (examples)",
       "path": "packs/pokedex.db",
       "system": "pf1",
-      "type": "Actor"
+      "type": "Actor",
     }
   ],
   "url": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet",
