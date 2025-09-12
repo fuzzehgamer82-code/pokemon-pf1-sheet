@@ -14,7 +14,7 @@
       "name": "pokedex",
       "label": "Pokédex (examples)",
       "path": "packs/pokedex.db",
-      "system": ["pf1"]
+      "system": ["pf1"],
       "type": "Actor"
     }
   ],
