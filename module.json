@@ -9,15 +9,6 @@
   "compatibleCoreVersion": "13",
   "scripts": ["scripts/pokemon-sheet.js"],
   "styles": ["styles/pokemon-sheet.css"],
-  "packs": [
-    {
-      "name": "pokedex",
-      "label": "Pokédex (examples)",
-      "path": "packs/pokedex.db",
-      "system": "pf1",
-      "type": "Actor",
-    }
-  ],
   "url": "https://github.com/YOURUSERNAME/pokemon-pf1-sheet",
   "manifest": "https://raw.githubusercontent.com/fuzzehgamer82-code/pokemon-pf1-sheet/main/module.json",
   "download": "https://github.com/fuzzehgamer82-code/pokemon-pf1-sheet/archive/refs/heads/main.zip",
