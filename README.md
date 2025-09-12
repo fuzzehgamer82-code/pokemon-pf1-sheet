@@ -4,5 +4,5 @@ This is a Foundry VTT module providing a Pokémon-inspired actor sheet for the P
 
 Install using the manifest URL in Foundry:
 ```
-https://raw.githubusercontent.com/YOURUSERNAME/pokemon-pf1-sheet/main/module.json
+https://raw.githubusercontent.com/fuzzehgamer82-code/pokemon-pf1-sheet/main/module.json
 ```
